@@ -25,5 +25,25 @@ GlowCart/
     │   └── api.js
     └── store/
         └── useStore.js
+# Mock‑up description:
 
-  
+Top Navigation Bar with “GlowCart” logo and cart icon.
+Onboarding / Home Screen:
+Tagline: “Your Beauty, Delivered”.
+Prominent “Shop” button. VCC    
+Product cards in a grid layout with image, title, and price.
+Floating “View Cart” button at the bottom.
+Product Details Screen:
+Large product image.
+Title, price, description.
+“Add to Bag” button.
+Highlights and Reviews section.
+Profile Screen:
+User name and email.
+List of profile options (Address, Orders, Language, Notifications, etc.).
+
+
+#ADDING AN IMAGE
+<img width="1024" height="1536" alt="PROJECT IMAGE 1" src="https://github.com/user-attachments/assets/b6a4d994-62ba-4692-bde4-f9477edc8b04" />
+
+
